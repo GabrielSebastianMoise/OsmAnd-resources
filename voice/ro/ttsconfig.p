@@ -115,7 +115,7 @@ string('meters_de.ogg', ' de metri').
 string('around_1_kilometer.ogg', 'circa un kilometru ').
 string('around.ogg', 'circa ').
 string('kilometers.ogg', 'kilometri ').
-string('kilometers_de.ogg', ' de kilometri ').
+string('kilometers_de.ogg', ' kilometri ').
 
 string('feet.ogg', ' de picioare').
 string('1_tenth_of_a_mile.ogg', ' zecime de milă').
